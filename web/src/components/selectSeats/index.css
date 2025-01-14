@@ -1,0 +1,26 @@
+aside {
+    margin: 10px auto 20px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 90%;
+    width: 100%;
+    justify-content: center;
+}
+
+.seat {
+    display: flex;
+    flex-direction: column-reverse;
+    margin: 10px;
+}
+
+button {
+    padding: 5px;
+}
+button:hover {
+    background-color: brown;
+    color: white;
+}
+
+.errorMessage {
+    color: red;
+}

@@ -1,0 +1,18 @@
+.advertising {
+    background-color: rgba(0, 0, 0, 0.595);
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    box-shadow: inset 0px 10px 30px rgba(255, 255, 255, 0.462);
+}
+
+figure {
+    background-color: white;
+    width: 210px;
+    padding: 5px 0;
+}
+
+.advertising img {
+    border: 1px solid black
+}

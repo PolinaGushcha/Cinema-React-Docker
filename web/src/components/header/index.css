@@ -1,0 +1,16 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 70vw;
+  max-width: 1060px;
+  margin-top: 20vh;
+  background: linear-gradient(90deg, rgba(25, 22, 55, 1) 19%, rgba(74, 0, 0, 1) 100%);
+  color: white;
+  box-shadow: inset 0px 10px 10px rgba(0, 0, 0, 0.462);
+}
+
+.cinemaName {
+  margin: 0 0 0 20px;
+}
